@@ -83,7 +83,7 @@ export default function App() {
                 marginBottom: '30px',
                 textAlign: 'center'
             }}>
-                Chess960 Position Viewer
+                Chess960 Position Generator
             </h1>
 
             <div style={{

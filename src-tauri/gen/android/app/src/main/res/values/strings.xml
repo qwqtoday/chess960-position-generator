@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chess960-position-generator</string>
+    <string name="main_activity_title">chess960-position-generator</string>
+</resources>
